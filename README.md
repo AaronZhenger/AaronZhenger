@@ -4,20 +4,28 @@
   </span>
 </h1>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=EBA539&section=footer"/>
+</p>
+
 <p align="center" style="color:#EBEBEB;">
   Based in <strong>Katy, TX (🇺🇸)</strong>
 </p>
 
-<table align="center">
-  <tr>
-    <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FRC 5427</th>
-    <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FTC 22092 Alum</th>
-  </tr>
-</table>
-
 <h3 align="center" style="color:#EBEBEB;">🧠 About Me</h3>
 <p align="center" style="color:#EBEBEB;">
   🤖 FIRST programmer (FRC / FTC)<br>
+</p>
+
+<table align="center">
+  <tr>
+    <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FRC 5427 Steel Talons Active Member</th>
+    <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FTC 22092 Cyber Eagles Jade Alumni</th>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=EBA539&section=footer"/>
 </p>
 
 <h3 align="center" style="color:#EBEBEB;">💻 Tech Stack</h3>
@@ -39,7 +47,6 @@
 
 </div>
 
-
 <p align="center">
   <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -49,6 +56,11 @@
   <img alt="Unity" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=EBA539&section=footer"/>
+</p
+<div></div>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
