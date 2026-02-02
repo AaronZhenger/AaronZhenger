@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="font-size:2em; font-weight:700; color:#EBEBEB;">
-    Hi there 👋, I'm a programmer in Java, Python, HTML/CSS, and JS!
+    Hi there 👋, I'm a programmer in Java, C++, HTML/CSS, and JS!
   </span>
 </h1>
 
