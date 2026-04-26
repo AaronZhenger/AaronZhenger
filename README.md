@@ -19,7 +19,7 @@
 
 <table align="center">
   <tr>
-    <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FRC 5427 Steel Talons Active Member</th>
+    <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FRC 5427 Steel Talons Programmer</th>
     <th style="padding:8px 16px; background:#161b22; border-radius:8px;">FTC 22092 Cyber Eagles Jade Alumni</th>
   </tr>
 </table>
